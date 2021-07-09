@@ -28,7 +28,7 @@
 minikube start --registry-mirror=https://hub-mirror.c.163.com --image-repository=registry.cn-hangzhou.aliyuncs.com/google_containers --vm-driver=docker --alsologtostderr -v=8 --base-image registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.10
 ```
 
-安装`k8s`集群命令行工具`kubectl`，参考[官方文档](https://kubernetes.io/zh/docs/tasks/tools/install-kubectl/)。
+安装`k8s`集群命令行工具`kubectl`，参考[官方文档](https://kubernetes.io/docs/tasks/tools/)。
 
 
 ## 生成链的配置
